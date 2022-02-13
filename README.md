@@ -2,6 +2,8 @@
 
 Objetivo: Crear una maqueta de una página web.
 
+La página web fue creada de acuerdo a los intereses del cliente en las reuniones. Se evaluó toda la propuesta del cliente para los wireframes.
+
 1- He creado todas las carpetas IMG/ CSS/ JS.
 2- He visto el documento con todas las pantallas de la antigua intranet.
 3- Hice el wireframe de la página a través  de una página de wireframes on-line.
