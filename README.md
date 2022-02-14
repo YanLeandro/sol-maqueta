@@ -11,3 +11,8 @@ La página web fue creada de acuerdo a los intereses del cliente en las reunione
 5- He programado todos los códigos en CSS
 6- He programado todos los códigos en JS
 7- Al finalizar se lo presentamos al docente y al equipo administrativo.
+
+
+[s1.pdf](https://github.com/YanLeandro/sol-maqueta/files/8058596/s1.pdf)
+[s2.pdf](https://github.com/YanLeandro/sol-maqueta/files/8058599/s2.pdf)
+[s3.pdf](https://github.com/YanLeandro/sol-maqueta/files/8058601/s3.pdf)
